@@ -1,24 +1,9 @@
-# README
+## Primeros pasos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Instalar postrgress desde homebrew si no se tiene antes de crear proyecto en RoR
 
-Things you may want to cover:
+2. Enlazar bootstrap con simple_form:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```zsh
+rails g simple_form:install --bootstrap
+```
