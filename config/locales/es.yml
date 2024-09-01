@@ -27,15 +27,20 @@
 #       "yes": yup
 #       enabled: "ON"
 
-en:
+es:
   hello: "Hello world"
   categories:
-    new_category: "New category"
+    new_category: "Nueva categoria"
   form:
-    name: "Name"
-    description: "Description"
+    name: "Nombre"
+    description: "Descripción"
   activerecord:
     models:
       category:
-        one: "Category"
-        others: "Categories"
+        one: "Categoría"
+        others: "Categorías"
+  common:
+    back: "Volver"
+  task:
+    error:
+      invalit_due_date: "La fecha de vencimiento no puede ser anterior a la fecha actual"

@@ -3,6 +3,7 @@
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "jquery": "^3.7.1",
+    "prettier": "^3.3.3",
     "roboto-fontface": "^0.10.0"
   }
 }

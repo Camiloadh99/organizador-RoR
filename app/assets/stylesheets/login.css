@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(240, 240, 240) !important ;
+}
+
+.log-box {
+  display: block;
+  background-color: #ffffff;
+  border: solid 1px #e7e7e7;
+  max-width: 442px;
+  margin: 60px auto 20px;
+  box-shadow: 5px 5px 10px #e0e0e0;
+  padding: 20px;
+}
