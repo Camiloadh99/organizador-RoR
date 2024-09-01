@@ -24,4 +24,4 @@
    rails g scaffold Task name:string description:text due_date:date category:references
    ```
 
-   4.3 Hacer migraciones
+   4.3 Hacer migraciones, como estamos en posgress toca configurar usuario y contraseña en database.yml
